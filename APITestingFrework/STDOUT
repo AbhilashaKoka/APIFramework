@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0.020236">
+<testcase classname="PUT operation" name="Verify PUT operation after POST" time="0.020236">
+<skipped><![CDATA[Given I perform authentication operation for "/auth/login" with body........undefined
+And I ensure to Perform POST operation for "/posts" with body as............undefined
+And I Perform PUT operation for "/posts/{postid}/"..........................undefined
+And I perform GET operation with path parameter for "/posts/{postid}".......undefined
+Then I "should" see the body with title as "API Testing"....................undefined
+]]></skipped>
+</testcase>
+</testsuite>

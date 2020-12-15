@@ -1,0 +1,29 @@
+[
+  {
+    "username": "englisheventcreator",
+    "password": "test",
+    "rememberme": "1" ,
+    "name":"Abhilasha",
+    "surname":"Koka",
+    "document":"Birth Certificate",
+    "documentid":"12133",
+    "dob":"28091985",
+    "phonenumber":"2323232323",
+    "email":"koka@gmail.com",
+    "gender": "male",
+    "eligibility":"yes",
+    "reseller":"yes",
+    "locale":"English",
+    "eventname":"eventname",
+    "eventcoordinate":"eventcoordinate",
+    "eventstartdate":"28122020",
+    "eventenddate":"01012021",
+    "eventstarttime":"230123",
+    "programstarttime":"230134",
+    "programendtime":"240212",
+    "eventurl":"akoka@gmail.com",
+    "selectcurrency":"United States dollar USD",
+    "eventprice":"232",
+    "eventdescription":"sdsfdfgasdgfdhf"
+    }
+]
